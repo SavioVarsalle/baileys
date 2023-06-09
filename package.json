@@ -1,8 +1,8 @@
 {
-  "name": "@saviovarsalle/baileys",
-  "version": "4.4.1",
+  "name": "@adiwajshing/baileys",
+  "version": "4.4.0",
   "description": "WhatsApp API",
-  "homepage": "https://github.com/SavioVarsalle/baileys",
+  "homepage": "https://github.com/adiwajshing/Baileys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
@@ -32,7 +32,7 @@
   "author": "Adhiraj Singh",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:SavioVarsalle/baileys.git"
+    "url": "git@github.com:adiwajshing/baileys.git"
   },
   "dependencies": {
     "@hapi/boom": "^9.1.3",
